@@ -1,0 +1,37 @@
+_repo: The-mystery-of-the-Kingdom-of-God-b-The-secret-of-Jesus-messiahship-and-passion_75886
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lowrie, Walter
+    gutenberg_agent_id: '58196'
+    url: http://www.gutenberg.org/2009/agents/58196
+creator:
+  author:
+    agent_name: Schweitzer, Albert
+    birthdate: 1875
+    deathdate: 1965
+    gutenberg_agent_id: '42712'
+    url: http://www.gutenberg.org/2009/agents/42712
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Albert_Schweitzer
+    - https://de.wikipedia.org/wiki/Albert_Schweitzer
+description: ''
+gutenberg_issued: '2025-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75886'
+language: en
+pgterms:marc904: https://archive.org/details/mysteryofkingdom00schw_0/page/n5/mode/2up
+pgterms:marc905: 20250331060801schweitzer
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Actonian Press
+publication_note: '  $aNew York :$bDodd, Mead and Company, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The mystery of the Kingdom of God : $b The secret of Jesus'' messiahship and
+  passion'
+url: http://www.gutenberg.org/ebooks/75886
