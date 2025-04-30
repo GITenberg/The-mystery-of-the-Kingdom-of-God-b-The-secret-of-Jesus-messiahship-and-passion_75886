@@ -5,6 +5,9 @@ contributor:
     agent_name: Lowrie, Walter
     gutenberg_agent_id: '58196'
     url: http://www.gutenberg.org/2009/agents/58196
+covers:
+- cover_type: archival
+  image_path: 75886-h/images/cover.jpg
 creator:
   author:
     agent_name: Schweitzer, Albert
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Albert_Schweitzer
     - https://de.wikipedia.org/wiki/Albert_Schweitzer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75886#The-mystery-of-the-Kingdom-of-God-b-The-secret-of-Jesus-messiahship-and-passion
 gutenberg_issued: '2025-04-16'
 gutenberg_type: Text
 identifiers:
